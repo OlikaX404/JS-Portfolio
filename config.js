@@ -1,10 +1,10 @@
 export default {
-  tgUsername: "cyberboyayush",
+  tgUsername: "OlikA",
   githubUsername: "cyberboyayush",
-  websiteName: "@cyberboyayush",
+  websiteName: "@OlikaX",
   heroHead: "Hey There !!",
-  heroText: "Ayush Sharma (CyberBoyAyush) is here , I’m a ",
-  facebookUsername: "cyberboyayush",
-  instaUsername: "cyberboyayush",
+  heroText: "OlikaX (Zimezon) is here , I’m a ",
+  facebookUsername: "Xander Tanny",
+  instaUsername: "OlikaX404",
   typedArray : ["Developer","Fast Learner","Open-source Lover","Linux Enthusiast","Coder"]
 };
